@@ -7,7 +7,7 @@ const ContactFormHeader: FC = () => (
     <h2 className="contactFormHeaderHeader">GET IN TOUCH</h2>
     <Divider classPrefix="divider" vertical />
     <p>
-      We are available 24/7 by fax, e-mail or by phone. You can also use our quick contact form to ask a question about our
+      We are available 24/7  by  e-mail or by phone. You can also use our quick contact form to ask a question about our
       products.
     </p>
   </div>

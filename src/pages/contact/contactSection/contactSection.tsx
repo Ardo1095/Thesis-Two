@@ -5,13 +5,13 @@ import ContactType from './contactType/contactType';
 const ContactSection: FC = () => (
   <section className="contactSection">
     <ContactType type="phone">
-      <p>+363025664803</p>
+      <p>+36303896570</p>
     </ContactType>
     <ContactType type="address">
-      <p>523 Sylvan Ave, 5th Floor Mountain View, CA 94041 USA</p>
+      <p> plot 65 Murtala way abuja ,Nigeria </p>
     </ContactType>
     <ContactType type="e-mail">
-      <p>solomon@yahoo.com</p>
+      <p>solomonbello008@yahoo.com</p>
     </ContactType>
   </section>
 );

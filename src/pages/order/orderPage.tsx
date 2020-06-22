@@ -85,8 +85,8 @@ const OrderPage: FC = () => {
               </p>
             </Row>
             <p className="productDescription">
-              Lorem ipsum dolor sit amet, ei impetus epicurei his, ne falli erant consequuntur est. Mei simul aperiam eu, an rebum
-              regione ponderum mel. Facer placerat ut duo, id duis solum maiorum vis, vim autemsemper docendi cu. Pro
+            Orders can only be made in crates . A crate contains 30 eggs . Because we offer free delivery  service nationwide we can only accept a minimum of 30 crates order . 
+            The price per crate is fixed however it is subject to change from time to time  based  on the market demand and supply  forces. 
             </p>
 
             <Divider />

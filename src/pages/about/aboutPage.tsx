@@ -8,10 +8,8 @@ import Testimonials from './testimonials/testimonials';
 const AboutPage: FC = () => (
   <>
     <PageJumbotron
-      subTitle="We are industry-leading organic farm delivering the best products
-that boost your daily life energy and potential."
       backgroundImage={aboutUsImage}
-      title="About us"
+      title="About Us"
     />
     <AboutSection />
     <StatsSection />
