@@ -15,7 +15,7 @@ const CheckoutPage: FC<any> = ({ history }) => {
   const [paymentError, setPaymentError] = useState(false);
   const [addressError, setAddressError] = useState(false);
   const [shippingDetails, setShippingDetails] = useState({
-    name: 'Woyong',
+    name: '',
     address: '',
     city: '',
     email: '',
